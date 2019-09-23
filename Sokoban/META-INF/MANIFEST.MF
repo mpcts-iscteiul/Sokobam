@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Rsrc-Class-Path: ./ junit.jar org.hamcrest.core_1.3.0.v201303031735.ja
+ r
+Class-Path: .
+Rsrc-Main-Class: pt.iscte.dcti.poo.sokoban.starter.Main
+Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
+
